@@ -24,4 +24,4 @@ steps.
   a pull request to this repository
 
 If everything has gone according to plans, you should see your pull
-request under https://github.com/fork-testing/forkme/pulls
+request under https://github.com/fork-testing/forkme/pulls!
