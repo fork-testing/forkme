@@ -25,3 +25,6 @@ steps.
 
 If everything has gone according to plans, you should see your pull
 request under https://github.com/fork-testing/forkme/pulls
+
+
+* This is a new bullet
