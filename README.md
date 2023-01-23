@@ -9,6 +9,7 @@ To create a pull request to this fork, follow these
 steps.
 
 * Fork this repository
+    - Click the fork-button in the top-right corner
 * Clone your fork
     - Verify that you've cloned your fork and not this
       repository by running `git remote -v`; you should see
